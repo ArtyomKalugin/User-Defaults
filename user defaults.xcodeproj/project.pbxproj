@@ -13,6 +13,7 @@
 		924CAC392731959C00D9E4E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924CAC372731959C00D9E4E8 /* Main.storyboard */; };
 		924CAC3B2731959E00D9E4E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 924CAC3A2731959E00D9E4E8 /* Assets.xcassets */; };
 		924CAC3E2731959E00D9E4E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924CAC3C2731959E00D9E4E8 /* LaunchScreen.storyboard */; };
+		924CAC46273197A300D9E4E8 /* UserAppSettings .swift in Sources */ = {isa = PBXBuildFile; fileRef = 924CAC45273197A300D9E4E8 /* UserAppSettings .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		924CAC3A2731959E00D9E4E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		924CAC3D2731959E00D9E4E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		924CAC3F2731959E00D9E4E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		924CAC45273197A300D9E4E8 /* UserAppSettings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserAppSettings .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				924CAC312731959C00D9E4E8 /* AppDelegate.swift */,
 				924CAC332731959C00D9E4E8 /* SceneDelegate.swift */,
 				924CAC352731959C00D9E4E8 /* ViewController.swift */,
+				924CAC45273197A300D9E4E8 /* UserAppSettings .swift */,
 				924CAC372731959C00D9E4E8 /* Main.storyboard */,
 				924CAC3A2731959E00D9E4E8 /* Assets.xcassets */,
 				924CAC3C2731959E00D9E4E8 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				924CAC362731959C00D9E4E8 /* ViewController.swift in Sources */,
 				924CAC322731959C00D9E4E8 /* AppDelegate.swift in Sources */,
+				924CAC46273197A300D9E4E8 /* UserAppSettings .swift in Sources */,
 				924CAC342731959C00D9E4E8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
